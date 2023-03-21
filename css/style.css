@@ -830,7 +830,7 @@ a {
 
 .testimonials {
     position: relative;
-    min-height: 100vh;
+    min-height: fit-content;
     text-align: center;
     background-color: var(--section-color);
 }
